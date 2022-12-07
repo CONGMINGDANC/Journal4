@@ -571,3 +571,124 @@ eAA eAA | dcd Bcd | eAA efg | fed e2 d |
 eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
 g2 g fgf | e2 A cBA | fef afe | d2 A def |
 g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 50
+T: Cooley's
+M: 4/4
+L: 1/8
+R: reel
+K: Emin
+|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
+
+X: 51
+T: Copperplate
+M: 4/4
+L: 1/8
+R: reel
+K: Gmaj
+|:D2|G2BG DGBD|G2BG A2GA|B2dg Bdgd|B2dg d2Bc|
+d2Bd G2BG|DGBD GABd|g2ge d2Bd|GABG A2:|
+|:g2|dg g2 dgBg|dg g2 agfd|e2ce eceg|e2ce d2Bc|
+d2Bd G2BG|DGBD GABd|g2ge d2Bd|GABG A2:|
+
+X: 52
+T: Connaughtman's Rambles
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFD ADFA|ADFD A2FA|B2GE F2DE|B2GE F2DE|
+ADFD ADFA|ADFD A2FA|B2GE F2DE|1 FDFA d2:|2 FDFA d2d2||
+|:d2|f2df edBd|f2df e2dc|d2Bd c2Ac|d2Bd c2Ac|
+f2df edBd|f2df e2dc|d2Bd c2Ac|1 FDFA d2d2:|2 FDFA d2||
+
+X: 53
+T: Cottage in the Grove
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFD A2FA|B2DE FDFA|ADFD A2FA|B2GE F2DE|
+ADFD A2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 54
+T: Congress Reel
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 55
+T: Da Slockit Light
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 56
+T: Drowsy Maggie
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 57
+T: Dusty Miller
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 58
+T: Eavesdropper
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 59
+T: Foxhunter's Reel
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+
+X: 60
+T: Frost is All Over
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|:D2|ADFA d2FA|B2DE FDFA|ADFA d2FA|B2GE F2DE|
+ADFA d2FA|B2DE FDFA|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
+|:d2|f2df e2dc|d2Bd c2Ac|f2df e2dc|d2Bd c2Ac|
+f2df e2dc|d2Bd c2Ac|B2GE F2DE|1 FDFA d2d2:|2 FDFA d4||
