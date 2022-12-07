@@ -1,0 +1,573 @@
+X: 1
+T:A and D
+% Nottingham Music Database
+S:EF
+M:4/4
+K:A
+M:6/8
+P:A
+f|"A"ecc c2f|"A"ecc c2f|"A"ecc c2f|"Bm"BcB "E7"B2f|
+"A"ecc c2f|"A"ecc c2c/2d/2|"D"efe "E7"dcB| [1"A"Ace a2:|
+ [2"A"Ace ag=g||\
+K:D
+P:B
+"D"f2f Fdd|"D"AFA f2e/2f/2|"G"g2g ecd|"Em"efd "A7"cBA|
+"D"f^ef dcd|"D"AFA f=ef|"G"gfg "A7"ABc |1"D"d3 d2e:|2"D"d3 d2||
+
+X: 2
+T:Abacus
+% Nottingham Music Database
+S:By Hugh Barwell, via Phil Rowe
+M:6/8
+K:G
+"G"g2g B^AB|d2d G3|"Em"GAB "Am"A2A|"D7"ABc "G"BAG|
+"G"g2g B^AB|d2d G2G|"Em"GAB "Am"A2G|"D7"FGA "G"G3::
+"D7"A^GA DFA|"G"B^AB G3|"A7"^c=c^c Ace|"D7"fef def|
+"G"g2g de=f|"E7"e2e Bcd|"Am"c2c "D7"Adc| [1"G"B2A G3:|
+ [2"G"B2A G2F||"Em"E2E G2G|B2B e2e|"Am"c2A "B7"FBA|"Em"G2F E3|"Em"EFG "Am"ABc|
+"B7"B^c^d "Em"e2e|"F#7"f2f f2e|"B7"^def BAF|"Em"E2E G2G|B2B e2e|
+"Am"c2A "B7"FBA|"Em"G2F E3|"Em"EFG "Am"ABc|"B7"B^c^d "Em"e2e|
+"F#7"f2e "B7"^def |[1"Em"e3 "D7"d3:|[2"Em"e3 "E7"e3||
+
+X: 3
+T:The American Dwarf
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+P:A
+A|"D" def fed|"G" BdB AFD| "D"DFA "G"B2 A|"Em" cee "A7" e2 A|
+"D" def fed|"G" BdB "D"AFD|"D" DFA "G"B2 A|"A7" Add "D" d2:|
+"B"e|"D"fga agf|"G" gab "A7"bag|"D"fga "D"agf|"Em" gfg "A7"e2 g|
+"D"fga agf|"G"gab "A7"bag|"D" fga "A7"efg|"D" fdd d2 :| 
+
+X: 4
+T:The Ballydesmond Polka
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"f2d d2B|"A"Ace a2f|"D"f2d d2B|"Bm"B2 B2 F|
+"G"G2 G2 B/c/|"D"d2d d2A|"G"B2 B2 B/c/|"D"d2d d2:|
+"D"A2f f2d|"G"B2d d2B|"A"A2f f2d|"D"d2d d2f|
+"G"G2B B2d|"D"d2f f2d|"G"B2G G2B/c/|"D"d2d d2:|
+
+X: 5
+T:Mary Cassidy Polka
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:A
+"A"A2c c2A|"D"F2A A2F|"A"A2c c2A/B/|"E"e2c c2E|
+"A"A2c c2A|"D"F2A A2F|"G"G2B B2G/A/|"E"e2c c2|
+
+X: 6 
+T:Patsy Geary
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:G
+"G"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d2f f2d|
+"G"B2B B2d|"Bm"g2e e2d|"G"BGB "D"d2A|"G"G2G G2:|
+"D"d2g g2d|"A7"e2c c2A|"D"d2g g2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+
+X: 7
+T:Si Bheag, Si Mhor
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:A
+"A"A2e e2A|"D"Acd cde|"A"A2 e2g|"E"eed c2A|
+"A"A2e e2A|"D"Acd c2g|"G"^fga "E"gfe|"A"^fgg e2:|
+"D"fdf A2f|"A"ece "E7"egf|"D"fed "A7"Acc|"D"ded "E7"B2B|
+"A"cAc "E7"E2E|"G"BGB "A7"A2A|"D"fdf "G"G2G|"D"D2D D2:||
+
+X: 8
+T:The Pride of Petravore
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+P:A
+"D"fdd d2A|"A7"F2A A2G|"D"FAA F2A|"D"F2A A2F|
+"D"FDD D2f|"A7"efg a2f|"D"faa a2f|"A7"gfe "D"d2:|
+"Bm"g2g e2d|"Em"B2B B2B|"G"D2G G2F|"D"A2F D2F|
+"Bm"g2g e2d|"Em"B2B B2F|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 9
+T:The Humours of Ennistymon
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+"D"f2f F2A|"A7"F2A A2G|"D"FAA F2D|"D"FGA "A7"A2F|
+"D"f2f F2A|"A7"F2A A2G|"D"FAA "D"F2A|"A7"GFE "D"D2:|
+"Bm"g2g e2d|"Em"B2B B2B|"G"D2G G2F|"D"A2F "A7"D2F|
+"Bm"g2g e2d|"Em"B2B B2F|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 10
+T:The Blackbird
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+"D"F2F "A7"F2A|"D"F2F "A7"F2A|"D"FAA "D"F2A|"A7"GFE "D"D2:|
+"Bm"g2g e2d|"Em"B2B B2B|"G"D2G G2F|"D"A2F "A7"D2F|
+"Bm"g2g e2d|"Em"B2B B2F|"G"G2E B2G|"D"F2A "A7"A2F|]
+
+X: 11
+T:Tralee Gaol
+% Nottingham Music Database
+S:FTB, via EF
+M:3/4
+K:G
+P:A
+"G"G2B B2G|"G"G2G B2G/A/|"G"G2B B2G|"D"D2D E2E/F/| 
+"G"G2B B2G|"G"G2G B2G/A/|"D"D2F F2A|"G"G2G G2:|
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"G"GAG G2E|  
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"E"EDF "G"G2::"D"D2F F2A|"G"G2G G2F|
+"D"D2F F2A|"D"D2D E2E/F/|"D"D2F F2A|"G"G2G B2G/A/|"D"D2F F2A|"G"G2G G2:|]
+
+X: 12
+T:The Morning Dew
+% Nottingham Music Database
+S:FTB, via EF
+M:2/4
+K:A
+"A"A2a "E7"e2c|"A"a2f "E7"e2A|"A"A2a "E7"e2g|"A"f2a "E7"e2A|
+"A"A2a "E7"e2c|"A"a2f "E7"e2a|"G"g2f "E7"e2a|"A"a2a "E7"e2:||
+"D"d2d "A7"d2A|"D"f2f "A7"f2A|"D"d2d "A7"d2A|"D"f2f "A7"f2A|
+"D"d2d "A7"d2A|"D"f2f "A7"f2A|"G"g2f "E7"e2a|"A"a2a "E7"e2:|]
+
+X: 13
+T:The Irish Washerwoman
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+"D"f2f F2A|"A7"F2A A2G|"D"FAA F2A|"D"F2A A2F|
+"D"FDD D2f|"A7"efg a2f|"D"faa a2f|"A7"gfe "D"d2:|
+"Bm"g2g e2d|"Em"B2B B2B|"G"D2G G2F|"D"A2F D2F|
+"Bm"g2g e2d|"Em"B2B B2F|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 14
+T:The Blackthorn Stick
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:G
+"G"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d2f f2d|
+"G"B2B B2d|"Bm"g2e e2d|"G"BGB "D"d2A|"G"G2G G2:|
+"D"d2g g2d|"A7"e2c c2A|"D"d2g g2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+
+X: 15
+T:The Dear Old Galway Bay
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"f2f Fdd|"A7"Ace ace|"D"FAA "D"Fdd|"A7"Ace a2f|
+"D"f2f F2A|"A7"F2A A2A|"D"FAA F2d|[1"D"D2A A2A:|[2"D"D2A A2F||
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A|"G"B2B B2B| 
+"Em"cec e2d|"G"BdB "A7"d2A|[1"D"D2A A2A:|[2"D"D2A A2F||]
+
+X: 16
+T:My Maryanne
+% Nottingham Music Database
+S:FTB, via EF
+M:3/4
+K:G
+P:A
+"G"G2B B2G|"G"G2G B2G/A/|"G"G2B B2G|"D"D2D E2E/F/| 
+"G"G2B B2G|"G"G2G B2G/A/|"D"D2F F2A|"G"G2G G2:|
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"G"GAG G2E|  
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"D"D2A A2F||
+
+X: 17
+T:The Banks of Red Roses
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+P:A
+"D"A2F D2F|"A7"Ace ace|"D"f2f F2A|"A7"Ace a2f| 
+"D"f2f F2A|"A7"F2A A2A|"D"FAA F2A|"D"D2A A2F||
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A| 
+"G"B2B B2B|"Em"cec e2d|"G"BdB "A7"d2A|"D"D2A A2F||
+
+X: 18
+T:The Night Pat Murphy Died
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d| 
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d| 
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 19
+T:The Boys of Ballisodare
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"D2A A2F|"D"D2A A2F|"D"D2A A2F|"A7"Ace ace|
+"D"f2f F2A|"A7"F2A A2A|"D"FAA F2A|"D"D2A A2F||
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A| 
+"G"B2B B2B|"Em"cec e2d|"G"BdB "A7"d2A|"D"D2A A2F||
+
+X: 20
+T:The Stack of Barley
+% Nottingham Music Database
+S:FTB, via EF
+M:3/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 21
+T:The Rakes of Mallow
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"f2f F2A|"A7"F2A A2G|"D"FAA F2A|"D"F2A A2F|
+"D"FDD D2f|"A7"efg a2f|"D"faa a2f|"A7"gfe "D"d2:|
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A|
+"G"B2B B2B|"Em"cec e2d|"G"BdB "A7"d2A|"D"D2A A2F||
+
+X: 22
+T:The Red Haired Boy
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:G
+"G"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d2f f2d|
+"G"B2B B2d|"Bm"g2e e2d|"G"BGB "D"d2A|"G"G2G G2:|
+"D"d2g g2d|"A7"e2c c2A|"D"d2g g2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+
+X: 23
+T:The Salamanca
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"A2F D2F|"A7"Ace ace|"D"f2f F2A|"A7"Ace a2f| 
+"D"f2f F2A|"A7"F2A A2A|"D"FAA F2A|"D"D2A A2F||
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A| 
+"G"B2B B2B|"Em"cec e2d|"G"BdB "A7"d2A|"D"D2A A2F||
+
+X: 24
+T:The Galway Races
+% Nottingham Music Database
+S:FTB, via EF
+M:3/4
+K:G
+"G"G2B B2G|"G"G2G B2G/A/|"G"G2B B2G|"D"D2D E2E/F/| 
+"G"G2B B2G|"G"G2G B2G/A/|"D"D2F F2A|"G"G2G G2:|
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"G"GAG G2E|  
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"D"D2A A2F||
+
+X: 25
+T:The Boys of Blue Hill
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 26
+T:The Irish Rover
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"f2f F2A|"A7"F2A A2G|"D"FAA F2A|"D"F2A A2F|
+"D"FDD D2f|"A7"efg a2f|"D"faa a2f|"A7"gfe "D"d2:|
+"G"B2B B2B|"Em"cec e2d|"G"B2G G2G|"D"Ad^c B2A|
+"G"B2B B2B|"Em"cec e2d|"G"BdB "A7"d2A|"D"D2A A2F||
+
+X: 27
+T:The Parting Glass
+% Nottingham Music Database
+S:FTB, via EF
+M:3/4
+K:G
+P:A
+"G"G2B B2G|"G"G2G B2G/A/|"G"G2B B2G|"D"D2D E2E/F/| 
+"G"G2B B2G|"G"G2G B2G/A/|"D"D2F F2A|"G"G2G G2:|
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"G"GAG G2E|  
+"C"E2E E2C|"C"E2E E2C|"G"G2B B2G|"D"D2A A2F||
+
+X: 28
+T:The Wild Rover
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"D2A A2F|"D"D2F F2D|"D"D2A A2F|"A7"G2E E2D|
+"D"D2A A2F|"D"D2F F2D|"G"G2E B2G|"D"F2A A2F||
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A A2F||
+
+X: 29
+T:The Wren's Nest
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 30
+T:The Wild Colonial Boy
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 31
+T:The Star of the County Down
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"D2A A2F|"D"D2F F2D|"D"D2A A2F|"A7"G2E E2D|
+"D"D2A A2F|"D"D2F F2D|"G"G2E B2G|"D"F2A A2F||
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A A2F||
+
+X: 32
+T:The Rocky Road to Dublin
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 33
+T:The Black Velvet Band
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 34
+T:The Maid of the Sweet Brown Knowe
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 35
+T:The Cliffs of Doneen
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 36
+T:The Galway Races
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 37
+T:The Rakes of Mallow
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 38
+T:The Foggy Dew
+% Nottingham Music Database
+S:FTB, via EF
+M:4/4
+K:D
+"D"d2f f2d|"A7"e2c c2A|"D"d2f f2d|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"A7"c2A A2G|"D"d4 d4:|
+"G"B2B B2d|"D"d2f f2d|"A7"e2c c2A|"Bm"g2e e2d|
+"Em"B2B B2d|"D"d2f f2d|"G"G2E B2G|"D"F2A "A7"A2F||
+
+X: 39
+T: All Around The Christmas Tree
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 40
+T: The Banks of Claudy
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 41
+T: The Parting Glass
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 42
+T: The Blarney Pilgrim
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 43
+T: The Girl I Left Behind
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 44
+T: The Rights of Man
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 45
+T: The Waxies Dargle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 46
+T: The Wind That Shakes the Barley
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 47
+T: The Cliffs of Dooneen
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 48
+T: The Green Fields of America
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
+
+X: 49
+T: The Galway Races
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f2 A fed | Bcd cde | f2 A fed | faa afa |
+bag a2 f | gfe f2 d | ecA gfe |1 d3 d2 e :|2 d2 c Bcd ||
+eAA eAA | dcd Bcd | eAA efg | fed e2 d |
+eAA eAA | d2 d cde | faf gfe |1 d2 c Bcd :|2 d2 A def ||
+g2 g fgf | e2 A cBA | fef afe | d2 A def |
+g2 g fgf | e2 A cBA | fed Adc |1 d2 A def :|2 d3 d2 e ||
